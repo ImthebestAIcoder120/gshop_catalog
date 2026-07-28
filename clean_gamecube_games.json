@@ -1,0 +1,2360 @@
+{
+    "games": [
+        {
+            "name": "007 - Agent Under Fire (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/007%20-%20Agent%20Under%20Fire%20%28v1.00%29.iso"
+        },
+        {
+            "name": "007 - Agent Under Fire (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/007%20-%20Agent%20Under%20Fire%20%28v1.01%29.iso"
+        },
+        {
+            "name": "007 - Everything or Nothing",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/007%20-%20Everything%20or%20Nothing.iso"
+        },
+        {
+            "name": "007 - From Russia with Love",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/007%20-%20From%20Russia%20with%20Love.iso"
+        },
+        {
+            "name": "007 - Nightfire",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/007%20-%20Nightfire.iso"
+        },
+        {
+            "name": "1080 Avalanche",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/1080%20Avalanche.iso"
+        },
+        {
+            "name": "18 Wheeler - American Pro Trucker",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/18%20Wheeler%20-%20American%20Pro%20Trucker.iso"
+        },
+        {
+            "name": "2002 FIFA World Cup Korea Japan",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/2002%20FIFA%20World%20Cup%20Korea%20Japan.iso"
+        },
+        {
+            "name": "4x4 Evo 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/4x4%20Evo%202.iso"
+        },
+        {
+            "name": "ATV - Quad Power Racing 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/ATV%20-%20Quad%20Power%20Racing%202.iso"
+        },
+        {
+            "name": "Aggressive Inline",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Aggressive%20Inline.iso"
+        },
+        {
+            "name": "Alien Hominid",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Alien%20Hominid.iso"
+        },
+        {
+            "name": "All-Star Baseball 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/All-Star%20Baseball%202002.iso"
+        },
+        {
+            "name": "All-Star Baseball 2003 featuring Derek Jeter",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/All-Star%20Baseball%202003%20featuring%20Derek%20Jeter.iso"
+        },
+        {
+            "name": "All-Star Baseball 2004 featuring Derek Jeter",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/All-Star%20Baseball%202004%20featuring%20Derek%20Jeter.iso"
+        },
+        {
+            "name": "Amazing Island",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Amazing%20Island.iso"
+        },
+        {
+            "name": "American Chopper 2 - Full Throttle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/American%20Chopper%202%20-%20Full%20Throttle.iso"
+        },
+        {
+            "name": "Animal Crossing",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Animal%20Crossing.iso"
+        },
+        {
+            "name": "Animaniacs - The Great Edgar Hunt",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Animaniacs%20-%20The%20Great%20Edgar%20Hunt.iso"
+        },
+        {
+            "name": "Ant Bully, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ant%20Bully%2C%20The.iso"
+        },
+        {
+            "name": "Aquaman - Battle for Atlantis",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Aquaman%20-%20Battle%20for%20Atlantis.iso"
+        },
+        {
+            "name": "Army Men - Air Combat - The Elite Missions",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Army%20Men%20-%20Air%20Combat%20-%20The%20Elite%20Missions.iso"
+        },
+        {
+            "name": "Army Men - RTS",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Army%20Men%20-%20RTS.iso"
+        },
+        {
+            "name": "Army Men - Sarge's War",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Army%20Men%20-%20Sarge%27s%20War.iso"
+        },
+        {
+            "name": "Auto Modellista",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Auto%20Modellista.iso"
+        },
+        {
+            "name": "Avatar - The Last Airbender",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Avatar%20-%20The%20Last%20Airbender.iso"
+        },
+        {
+            "name": "BMX XXX",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/BMX%20XXX.iso"
+        },
+        {
+            "name": "Backyard Baseball",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Backyard%20Baseball.iso"
+        },
+        {
+            "name": "Backyard Football",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Backyard%20Football.iso"
+        },
+        {
+            "name": "Backyard Sports - Baseball 2007",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Backyard%20Sports%20-%20Baseball%202007.iso"
+        },
+        {
+            "name": "Bad Boys - Miami Takedown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bad%20Boys%20-%20Miami%20Takedown.iso"
+        },
+        {
+            "name": "Baldur's Gate - Dark Alliance",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Baldur%27s%20Gate%20-%20Dark%20Alliance.iso"
+        },
+        {
+            "name": "Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Baten%20Kaitos%20-%20Eternal%20Wings%20and%20the%20Lost%20Ocean%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Baten%20Kaitos%20-%20Eternal%20Wings%20and%20the%20Lost%20Ocean%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Baten Kaitos Origins (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Baten%20Kaitos%20Origins%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Baten Kaitos Origins (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Baten%20Kaitos%20Origins%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Batman - Dark Tomorrow",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Batman%20-%20Dark%20Tomorrow.iso"
+        },
+        {
+            "name": "Batman - Rise of Sin Tzu",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Batman%20-%20Rise%20of%20Sin%20Tzu.iso"
+        },
+        {
+            "name": "Batman - Vengeance",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Batman%20-%20Vengeance.iso"
+        },
+        {
+            "name": "Batman Begins",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Batman%20Begins.iso"
+        },
+        {
+            "name": "Battalion Wars",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Battalion%20Wars.iso"
+        },
+        {
+            "name": "Beach Spikers - Virtua Beach Volleyball",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Beach%20Spikers%20-%20Virtua%20Beach%20Volleyball.iso"
+        },
+        {
+            "name": "Beyblade VForce - Super Tournament Battle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Beyblade%20VForce%20-%20Super%20Tournament%20Battle.iso"
+        },
+        {
+            "name": "Beyond Good & Evil",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Beyond%20Good%20%26%20Evil.iso"
+        },
+        {
+            "name": "Big Air Freestyle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Big%20Air%20Freestyle.iso"
+        },
+        {
+            "name": "Big Mutha Truckers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Big%20Mutha%20Truckers.iso"
+        },
+        {
+            "name": "Billy Hatcher and the Giant Egg",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Billy%20Hatcher%20and%20the%20Giant%20Egg.iso"
+        },
+        {
+            "name": "Bionicle Heroes",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bionicle%20Heroes.iso"
+        },
+        {
+            "name": "Bionicle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bionicle.iso"
+        },
+        {
+            "name": "Black & Bruised",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Black%20%26%20Bruised.iso"
+        },
+        {
+            "name": "Blood Omen 2 - The Legacy of Kain Series",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Blood%20Omen%202%20-%20The%20Legacy%20of%20Kain%20Series.iso"
+        },
+        {
+            "name": "BloodRayne",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/BloodRayne.iso"
+        },
+        {
+            "name": "Bloody Roar - Primal Fury",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bloody%20Roar%20-%20Primal%20Fury.iso"
+        },
+        {
+            "name": "Blowout",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Blowout.iso"
+        },
+        {
+            "name": "Bomberman Generation",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bomberman%20Generation.iso"
+        },
+        {
+            "name": "Bomberman Jetters",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bomberman%20Jetters.iso"
+        },
+        {
+            "name": "Bratz - Forever Diamondz",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bratz%20-%20Forever%20Diamondz.iso"
+        },
+        {
+            "name": "Bratz - Rock Angelz",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bratz%20-%20Rock%20Angelz.iso"
+        },
+        {
+            "name": "Buffy the Vampire Slayer - Chaos Bleeds",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Buffy%20the%20Vampire%20Slayer%20-%20Chaos%20Bleeds.iso"
+        },
+        {
+            "name": "Burnout 2 - Point of Impact",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Burnout%202%20-%20Point%20of%20Impact.iso"
+        },
+        {
+            "name": "Burnout",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Burnout.iso"
+        },
+        {
+            "name": "Bust-A-Move 3000",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Bust-A-Move%203000.iso"
+        },
+        {
+            "name": "Cabela's Big Game Hunter 2005 Adventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cabela%27s%20Big%20Game%20Hunter%202005%20Adventures.iso"
+        },
+        {
+            "name": "Cabela's Dangerous Hunts 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cabela%27s%20Dangerous%20Hunts%202.iso"
+        },
+        {
+            "name": "Cabela's Outdoor Adventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cabela%27s%20Outdoor%20Adventures.iso"
+        },
+        {
+            "name": "Call of Duty - Finest Hour",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Call%20of%20Duty%20-%20Finest%20Hour.iso"
+        },
+        {
+            "name": "Call of Duty 2 - Big Red One",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Call%20of%20Duty%202%20-%20Big%20Red%20One.iso"
+        },
+        {
+            "name": "Capcom vs. SNK 2 EO",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Capcom%20vs.%20SNK%202%20EO.iso"
+        },
+        {
+            "name": "Carmen Sandiego - The Secret of the Stolen Drums",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Carmen%20Sandiego%20-%20The%20Secret%20of%20the%20Stolen%20Drums.iso"
+        },
+        {
+            "name": "Casper - Spirit Dimensions",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Casper%20-%20Spirit%20Dimensions.iso"
+        },
+        {
+            "name": "Catwoman",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Catwoman.iso"
+        },
+        {
+            "name": "Cel Damage",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cel%20Damage.iso"
+        },
+        {
+            "name": "Chaos Field",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Chaos%20Field.iso"
+        },
+        {
+            "name": "Charlie and the Chocolate Factory",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Charlie%20and%20the%20Chocolate%20Factory.iso"
+        },
+        {
+            "name": "Charlie's Angels",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Charlie%27s%20Angels.iso"
+        },
+        {
+            "name": "Chibi-Robo! Plug into Adventure!",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Chibi-Robo%21%20Plug%20into%20Adventure%21.iso"
+        },
+        {
+            "name": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Chronicles%20of%20Narnia%2C%20The%20-%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe.iso"
+        },
+        {
+            "name": "City Racer",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/City%20Racer.iso"
+        },
+        {
+            "name": "Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E.",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Codename%20-%20Kids%20Next%20Door%20-%20Operation%20-%20V.I.D.E.O.G.A.M.E..iso"
+        },
+        {
+            "name": "Conflict - Desert Storm (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Conflict%20-%20Desert%20Storm%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Conflict - Desert Storm (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Conflict%20-%20Desert%20Storm%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Conflict - Desert Storm II - Back to Baghdad",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Conflict%20-%20Desert%20Storm%20II%20-%20Back%20to%20Baghdad.iso"
+        },
+        {
+            "name": "Crash Bandicoot - The Wrath of Cortex",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Crash%20Bandicoot%20-%20The%20Wrath%20of%20Cortex.iso"
+        },
+        {
+            "name": "Crash Nitro Kart",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Crash%20Nitro%20Kart.iso"
+        },
+        {
+            "name": "Crash Tag Team Racing",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Crash%20Tag%20Team%20Racing.iso"
+        },
+        {
+            "name": "Crazy Taxi",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Crazy%20Taxi.iso"
+        },
+        {
+            "name": "Cubivore",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cubivore.iso"
+        },
+        {
+            "name": "Cubix Robots for Everyone - Showdown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Cubix%20Robots%20for%20Everyone%20-%20Showdown.iso"
+        },
+        {
+            "name": "Curious George",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Curious%20George.iso"
+        },
+        {
+            "name": "Custom Robo",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Custom%20Robo.iso"
+        },
+        {
+            "name": "Dakar 2 - The World's Ultimate Rally",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dakar%202%20-%20The%20World%27s%20Ultimate%20Rally.iso"
+        },
+        {
+            "name": "Dance Dance Revolution - Mario Mix",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dance%20Dance%20Revolution%20-%20Mario%20Mix.iso"
+        },
+        {
+            "name": "Dark Summit",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dark%20Summit.iso"
+        },
+        {
+            "name": "Darkened Skye",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Darkened%20Skye.iso"
+        },
+        {
+            "name": "Dave Mirra Freestyle BMX 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dave%20Mirra%20Freestyle%20BMX%202.iso"
+        },
+        {
+            "name": "Dead to Rights",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dead%20to%20Rights.iso"
+        },
+        {
+            "name": "Def Jam - Fight for NY",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Def%20Jam%20-%20Fight%20for%20NY.iso"
+        },
+        {
+            "name": "Def Jam - Vendetta",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Def%20Jam%20-%20Vendetta.iso"
+        },
+        {
+            "name": "Defender",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Defender.iso"
+        },
+        {
+            "name": "Die Hard - Vendetta",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Die%20Hard%20-%20Vendetta.iso"
+        },
+        {
+            "name": "Digimon Rumble Arena 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Digimon%20Rumble%20Arena%202.iso"
+        },
+        {
+            "name": "Digimon World 4",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Digimon%20World%204.iso"
+        },
+        {
+            "name": "Dinotopia - The Sunstone Odyssey",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dinotopia%20-%20The%20Sunstone%20Odyssey.iso"
+        },
+        {
+            "name": "Disney Sports - Basketball",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%20Sports%20-%20Basketball.iso"
+        },
+        {
+            "name": "Disney Sports - Football",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%20Sports%20-%20Football.iso"
+        },
+        {
+            "name": "Disney Sports - Skateboarding",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%20Sports%20-%20Skateboarding.iso"
+        },
+        {
+            "name": "Disney Sports - Soccer",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%20Sports%20-%20Soccer.iso"
+        },
+        {
+            "name": "Disney's Chicken Little",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Chicken%20Little.iso"
+        },
+        {
+            "name": "Disney's Donald Duck - Goin' Quackers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Donald%20Duck%20-%20Goin%27%20Quackers.iso"
+        },
+        {
+            "name": "Disney's Extreme Skate Adventure",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Extreme%20Skate%20Adventure.iso"
+        },
+        {
+            "name": "Disney's Hide & Sneak",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Hide%20%26%20Sneak.iso"
+        },
+        {
+            "name": "Disney's Magical Mirror Starring Mickey Mouse",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Magical%20Mirror%20Starring%20Mickey%20Mouse.iso"
+        },
+        {
+            "name": "Disney's PK - Out of the Shadows",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20PK%20-%20Out%20of%20the%20Shadows.iso"
+        },
+        {
+            "name": "Disney's Party",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Party.iso"
+        },
+        {
+            "name": "Disney's Piglet's Big Game",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Piglet%27s%20Big%20Game.iso"
+        },
+        {
+            "name": "Disney's Tarzan - Untamed",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Tarzan%20-%20Untamed.iso"
+        },
+        {
+            "name": "Disney's The Haunted Mansion",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20The%20Haunted%20Mansion.iso"
+        },
+        {
+            "name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney%27s%20Winnie%20the%20Pooh%27s%20Rumbly%20Tumbly%20Adventure.iso"
+        },
+        {
+            "name": "Disney-Pixar Cars",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20Cars.iso"
+        },
+        {
+            "name": "Disney-Pixar Finding Nemo (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20Finding%20Nemo%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Disney-Pixar Finding Nemo (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20Finding%20Nemo%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Disney-Pixar Monsters, Inc. - Scream Arena",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20Monsters%2C%20Inc.%20-%20Scream%20Arena.iso"
+        },
+        {
+            "name": "Disney-Pixar Ratatouille",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20Ratatouille.iso"
+        },
+        {
+            "name": "Disney-Pixar The Incredibles - Rise of the Underminer",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20The%20Incredibles%20-%20Rise%20of%20the%20Underminer.iso"
+        },
+        {
+            "name": "Disney-Pixar The Incredibles",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Disney-Pixar%20The%20Incredibles.iso"
+        },
+        {
+            "name": "Donkey Kong Jungle Beat",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Donkey%20Kong%20Jungle%20Beat.iso"
+        },
+        {
+            "name": "Donkey Konga 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Donkey%20Konga%202.iso"
+        },
+        {
+            "name": "Donkey Konga",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Donkey%20Konga.iso"
+        },
+        {
+            "name": "Dora the Explorer - Journey to the Purple Planet",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dora%20the%20Explorer%20-%20Journey%20to%20the%20Purple%20Planet.iso"
+        },
+        {
+            "name": "Dr. Muto",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dr.%20Muto.iso"
+        },
+        {
+            "name": "Dragon Ball Z - Budokai 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dragon%20Ball%20Z%20-%20Budokai%202.iso"
+        },
+        {
+            "name": "Dragon Ball Z - Budokai",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dragon%20Ball%20Z%20-%20Budokai.iso"
+        },
+        {
+            "name": "Dragon Ball Z - Sagas",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dragon%20Ball%20Z%20-%20Sagas.iso"
+        },
+        {
+            "name": "Dragon's Lair 3D - Return to the Lair",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Dragon%27s%20Lair%203D%20-%20Return%20to%20the%20Lair.iso"
+        },
+        {
+            "name": "DreamWorks & Aardman Flushed Away",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20%26%20Aardman%20Flushed%20Away.iso"
+        },
+        {
+            "name": "DreamWorks Madagascar",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20Madagascar.iso"
+        },
+        {
+            "name": "DreamWorks Over the Hedge",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20Over%20the%20Hedge.iso"
+        },
+        {
+            "name": "DreamWorks Shark Tale",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20Shark%20Tale.iso"
+        },
+        {
+            "name": "DreamWorks Shrek - Smash n' Crash Racing",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20Shrek%20-%20Smash%20n%27%20Crash%20Racing.iso"
+        },
+        {
+            "name": "DreamWorks Shrek - SuperSlam",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/DreamWorks%20Shrek%20-%20SuperSlam.iso"
+        },
+        {
+            "name": "Driven",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Driven.iso"
+        },
+        {
+            "name": "Drome Racers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Drome%20Racers.iso"
+        },
+        {
+            "name": "ESPN International Winter Sports 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/ESPN%20International%20Winter%20Sports%202002.iso"
+        },
+        {
+            "name": "ESPN MLS ExtraTime 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/ESPN%20MLS%20ExtraTime%202002.iso"
+        },
+        {
+            "name": "Ed, Edd n Eddy - The Mis-Edventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ed%2C%20Edd%20n%20Eddy%20-%20The%20Mis-Edventures.iso"
+        },
+        {
+            "name": "Egg Mania - Eggstreme Madness",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Egg%20Mania%20-%20Eggstreme%20Madness.iso"
+        },
+        {
+            "name": "Enter the Matrix (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Enter%20the%20Matrix%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Enter the Matrix (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Enter%20the%20Matrix%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Eternal Darkness - Sanity's Requiem",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Eternal%20Darkness%20-%20Sanity%27s%20Requiem.iso"
+        },
+        {
+            "name": "Evolution Skateboarding",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Evolution%20Skateboarding.iso"
+        },
+        {
+            "name": "Evolution Snowboarding",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Evolution%20Snowboarding.iso"
+        },
+        {
+            "name": "Evolution Worlds",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Evolution%20Worlds.iso"
+        },
+        {
+            "name": "F-Zero GX",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/F-Zero%20GX.iso"
+        },
+        {
+            "name": "F1 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/F1%202002.iso"
+        },
+        {
+            "name": "FIFA Soccer 06",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%2006.iso"
+        },
+        {
+            "name": "FIFA Soccer 07",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%2007.iso"
+        },
+        {
+            "name": "FIFA Soccer 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%202002.iso"
+        },
+        {
+            "name": "FIFA Soccer 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%202003.iso"
+        },
+        {
+            "name": "FIFA Soccer 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%202004.iso"
+        },
+        {
+            "name": "FIFA Soccer 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Soccer%202005.iso"
+        },
+        {
+            "name": "FIFA Street 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Street%202.iso"
+        },
+        {
+            "name": "FIFA Street",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20Street.iso"
+        },
+        {
+            "name": "FIFA World Cup Germany 2006",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FIFA%20World%20Cup%20Germany%202006.iso"
+        },
+        {
+            "name": "Fairly OddParents, The - Breakin' da Rules",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Fairly%20OddParents%2C%20The%20-%20Breakin%27%20da%20Rules.iso"
+        },
+        {
+            "name": "Fairly OddParents, The - Shadow Showdown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Fairly%20OddParents%2C%20The%20-%20Shadow%20Showdown.iso"
+        },
+        {
+            "name": "Fantastic 4",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Fantastic%204.iso"
+        },
+        {
+            "name": "Fight Night Round 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Fight%20Night%20Round%202.iso"
+        },
+        {
+            "name": "Final Fantasy - Crystal Chronicles",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Final%20Fantasy%20-%20Crystal%20Chronicles.iso"
+        },
+        {
+            "name": "Fire Emblem - Path of Radiance",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Fire%20Emblem%20-%20Path%20of%20Radiance.iso"
+        },
+        {
+            "name": "FireBlade",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/FireBlade.iso"
+        },
+        {
+            "name": "Freaky Flyers (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freaky%20Flyers%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Freaky Flyers (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freaky%20Flyers%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Freedom Fighters",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freedom%20Fighters.iso"
+        },
+        {
+            "name": "Freekstyle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freekstyle.iso"
+        },
+        {
+            "name": "Freestyle Metal X",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freestyle%20Metal%20X.iso"
+        },
+        {
+            "name": "Freestyle Street Soccer",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Freestyle%20Street%20Soccer.iso"
+        },
+        {
+            "name": "Frogger - Ancient Shadow",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Frogger%20-%20Ancient%20Shadow.iso"
+        },
+        {
+            "name": "Frogger Beyond",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Frogger%20Beyond.iso"
+        },
+        {
+            "name": "Frogger's Adventures - The Rescue",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Frogger%27s%20Adventures%20-%20The%20Rescue.iso"
+        },
+        {
+            "name": "Future Tactics - The Uprising",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Future%20Tactics%20-%20The%20Uprising.iso"
+        },
+        {
+            "name": "Gauntlet - Dark Legacy",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Gauntlet%20-%20Dark%20Legacy.iso"
+        },
+        {
+            "name": "Geist",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Geist.iso"
+        },
+        {
+            "name": "Gladius",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Gladius.iso"
+        },
+        {
+            "name": "Go! Go! Hypergrind",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Go%21%20Go%21%20Hypergrind.iso"
+        },
+        {
+            "name": "Goblin Commander - Unleash the Horde",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Goblin%20Commander%20-%20Unleash%20the%20Horde.iso"
+        },
+        {
+            "name": "Godzilla - Destroy All Monsters Melee",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Godzilla%20-%20Destroy%20All%20Monsters%20Melee.iso"
+        },
+        {
+            "name": "GoldenEye - Rogue Agent (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/GoldenEye%20-%20Rogue%20Agent%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "GoldenEye - Rogue Agent (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/GoldenEye%20-%20Rogue%20Agent%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Gotcha Force",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Gotcha%20Force.iso"
+        },
+        {
+            "name": "Grim Adventures of Billy & Mandy, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Grim%20Adventures%20of%20Billy%20%26%20Mandy%2C%20The.iso"
+        },
+        {
+            "name": "Grooverider - Slot Car Thunder",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Grooverider%20-%20Slot%20Car%20Thunder.iso"
+        },
+        {
+            "name": "Gun",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Gun.iso"
+        },
+        {
+            "name": "Happy Feet",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Happy%20Feet.iso"
+        },
+        {
+            "name": "Harry Potter - Quidditch World Cup",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harry%20Potter%20-%20Quidditch%20World%20Cup.iso"
+        },
+        {
+            "name": "Harry Potter and the Chamber of Secrets",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets.iso"
+        },
+        {
+            "name": "Harry Potter and the Goblet of Fire",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harry%20Potter%20and%20the%20Goblet%20of%20Fire.iso"
+        },
+        {
+            "name": "Harry Potter and the Prisoner of Azkaban",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban.iso"
+        },
+        {
+            "name": "Harry Potter and the Sorcerer's Stone",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone.iso"
+        },
+        {
+            "name": "Harvest Moon - A Wonderful Life",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harvest%20Moon%20-%20A%20Wonderful%20Life.iso"
+        },
+        {
+            "name": "Harvest Moon - Another Wonderful Life",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harvest%20Moon%20-%20Another%20Wonderful%20Life.iso"
+        },
+        {
+            "name": "Harvest Moon - Magical Melody (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Harvest%20Moon%20-%20Magical%20Melody%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Hello Kitty - Roller Rescue",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hello%20Kitty%20-%20Roller%20Rescue.iso"
+        },
+        {
+            "name": "Hitman 2 - Silent Assassin",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hitman%202%20-%20Silent%20Assassin.iso"
+        },
+        {
+            "name": "Hobbit, The - The Prelude to the Lord of the Rings",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hobbit%2C%20The%20-%20The%20Prelude%20to%20the%20Lord%20of%20the%20Rings.iso"
+        },
+        {
+            "name": "Home Run King",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Home%20Run%20King.iso"
+        },
+        {
+            "name": "Hot Wheels - Velocity X",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hot%20Wheels%20-%20Velocity%20X.iso"
+        },
+        {
+            "name": "Hot Wheels - World Race",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hot%20Wheels%20-%20World%20Race.iso"
+        },
+        {
+            "name": "Hulk",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hulk.iso"
+        },
+        {
+            "name": "Hunter - The Reckoning",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Hunter%20-%20The%20Reckoning.iso"
+        },
+        {
+            "name": "I-Ninja",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/I-Ninja.iso"
+        },
+        {
+            "name": "Ice Age 2 - The Meltdown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ice%20Age%202%20-%20The%20Meltdown.iso"
+        },
+        {
+            "name": "Ikaruga",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ikaruga.iso"
+        },
+        {
+            "name": "Incredible Hulk, The - Ultimate Destruction",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Incredible%20Hulk%2C%20The%20-%20Ultimate%20Destruction.iso"
+        },
+        {
+            "name": "Intellivision Lives!",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Intellivision%20Lives%21.iso"
+        },
+        {
+            "name": "Italian Job, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Italian%20Job%2C%20The.iso"
+        },
+        {
+            "name": "Jeremy McGrath Supercross World",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Jeremy%20McGrath%20Supercross%20World.iso"
+        },
+        {
+            "name": "Judge Dredd - Dredd vs. Death",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Judge%20Dredd%20-%20Dredd%20vs.%20Death.iso"
+        },
+        {
+            "name": "Kao the Kangaroo - Round 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Kao%20the%20Kangaroo%20-%20Round%202.iso"
+        },
+        {
+            "name": "Karaoke Revolution Party",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Karaoke%20Revolution%20Party.iso"
+        },
+        {
+            "name": "Kelly Slater's Pro Surfer",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Kelly%20Slater%27s%20Pro%20Surfer.iso"
+        },
+        {
+            "name": "Killer 7 (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Killer%207%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Killer 7 (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Killer%207%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "King Arthur",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/King%20Arthur.iso"
+        },
+        {
+            "name": "Kirby Air Ride",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Kirby%20Air%20Ride.iso"
+        },
+        {
+            "name": "Knockout Kings 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Knockout%20Kings%202003.iso"
+        },
+        {
+            "name": "LEGO Star Wars - The Video Game",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/LEGO%20Star%20Wars%20-%20The%20Video%20Game.iso"
+        },
+        {
+            "name": "LEGO Star Wars II - The Original Trilogy",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy.iso"
+        },
+        {
+            "name": "Lara Croft Tomb Raider - Legend",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lara%20Croft%20Tomb%20Raider%20-%20Legend.iso"
+        },
+        {
+            "name": "Legend of Spyro, The - A New Beginning",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Spyro%2C%20The%20-%20A%20New%20Beginning.iso"
+        },
+        {
+            "name": "Legend of Zelda, The - Collector's Edition (Promo)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Zelda%2C%20The%20-%20Collector%27s%20Edition%20%28Promo%29.iso"
+        },
+        {
+            "name": "Legend of Zelda, The - Four Swords Adventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Zelda%2C%20The%20-%20Four%20Swords%20Adventures.iso"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time & Master Quest",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%26%20Master%20Quest.iso"
+        },
+        {
+            "name": "Legend of Zelda, The - The Wind Waker",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker.iso"
+        },
+        {
+            "name": "Legend of Zelda, The - Twilight Princess",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess.iso"
+        },
+        {
+            "name": "Legends of Wrestling 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legends%20of%20Wrestling%202.iso"
+        },
+        {
+            "name": "Legends of Wrestling",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Legends%20of%20Wrestling.iso"
+        },
+        {
+            "name": "Lemony Snicket's A Series of Unfortunate Events",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lemony%20Snicket%27s%20A%20Series%20of%20Unfortunate%20Events.iso"
+        },
+        {
+            "name": "Looney Tunes - Back in Action",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Looney%20Tunes%20-%20Back%20in%20Action.iso"
+        },
+        {
+            "name": "Lord of the Rings, The - The Return of the King",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King.iso"
+        },
+        {
+            "name": "Lord of the Rings, The - The Third Age (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Lord of the Rings, The - The Third Age (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Lord of the Rings, The - The Two Towers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Two%20Towers.iso"
+        },
+        {
+            "name": "Lost Kingdoms II",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lost%20Kingdoms%20II.iso"
+        },
+        {
+            "name": "Lost Kingdoms",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lost%20Kingdoms.iso"
+        },
+        {
+            "name": "Lotus Challenge",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Lotus%20Challenge.iso"
+        },
+        {
+            "name": "Luigi's Mansion",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Luigi%27s%20Mansion.iso"
+        },
+        {
+            "name": "MC Groovz Dance Craze",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MC%20Groovz%20Dance%20Craze.iso"
+        },
+        {
+            "name": "MLB SlugFest 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MLB%20SlugFest%202003.iso"
+        },
+        {
+            "name": "MLB SlugFest 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MLB%20SlugFest%202004.iso"
+        },
+        {
+            "name": "MVP Baseball 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MVP%20Baseball%202004.iso"
+        },
+        {
+            "name": "MVP Baseball 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MVP%20Baseball%202005.iso"
+        },
+        {
+            "name": "MX SuperFly featuring Ricky Carmichael",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/MX%20SuperFly%20featuring%20Ricky%20Carmichael.iso"
+        },
+        {
+            "name": "Madden NFL 06",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%2006.iso"
+        },
+        {
+            "name": "Madden NFL 07",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%2007.iso"
+        },
+        {
+            "name": "Madden NFL 08",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%2008.iso"
+        },
+        {
+            "name": "Madden NFL 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%202002.iso"
+        },
+        {
+            "name": "Madden NFL 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%202003.iso"
+        },
+        {
+            "name": "Madden NFL 2004 (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%202004%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Madden NFL 2004 (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%202004%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Madden NFL 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Madden%20NFL%202005.iso"
+        },
+        {
+            "name": "Major League Baseball 2K6",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Major%20League%20Baseball%202K6.iso"
+        },
+        {
+            "name": "Mario Golf - Toadstool Tour",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Golf%20-%20Toadstool%20Tour.iso"
+        },
+        {
+            "name": "Mario Party 4 (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Party%204%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Mario Party 4 (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Party%204%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Mario Party 5",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Party%205.iso"
+        },
+        {
+            "name": "Mario Party 6",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Party%206.iso"
+        },
+        {
+            "name": "Mario Party 7",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Party%207.iso"
+        },
+        {
+            "name": "Mario Power Tennis (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Power%20Tennis%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Mario Power Tennis (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Power%20Tennis%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Mario Superstar Baseball",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mario%20Superstar%20Baseball.iso"
+        },
+        {
+            "name": "Mark Davis Pro Bass Challenge",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mark%20Davis%20Pro%20Bass%20Challenge.iso"
+        },
+        {
+            "name": "Marvel Nemesis - Rise of the Imperfects",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Marvel%20Nemesis%20-%20Rise%20of%20the%20Imperfects.iso"
+        },
+        {
+            "name": "Mary-Kate and Ashley - Sweet 16 - Licensed to Drive",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mary-Kate%20and%20Ashley%20-%20Sweet%2016%20-%20Licensed%20to%20Drive.iso"
+        },
+        {
+            "name": "Mat Hoffman's Pro BMX 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mat%20Hoffman%27s%20Pro%20BMX%202.iso"
+        },
+        {
+            "name": "Medabots Infinity (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medabots%20Infinity%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Medabots Infinity (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medabots%20Infinity%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Medal of Honor - European Assault",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medal%20of%20Honor%20-%20European%20Assault.iso"
+        },
+        {
+            "name": "Medal of Honor - Frontline",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medal%20of%20Honor%20-%20Frontline.iso"
+        },
+        {
+            "name": "Medal of Honor - Rising Sun (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medal%20of%20Honor%20-%20Rising%20Sun%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Medal of Honor - Rising Sun (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Medal%20of%20Honor%20-%20Rising%20Sun%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Mega Man - Network Transmission",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mega%20Man%20-%20Network%20Transmission.iso"
+        },
+        {
+            "name": "Mega Man Anniversary Collection",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mega%20Man%20Anniversary%20Collection.iso"
+        },
+        {
+            "name": "Mega Man X - Command Mission",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mega%20Man%20X%20-%20Command%20Mission.iso"
+        },
+        {
+            "name": "Mega Man X Collection",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mega%20Man%20X%20Collection.iso"
+        },
+        {
+            "name": "Men in Black II - Alien Escape",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Men%20in%20Black%20II%20-%20Alien%20Escape.iso"
+        },
+        {
+            "name": "Metal Arms - Glitch in the System",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metal%20Arms%20-%20Glitch%20in%20the%20System.iso"
+        },
+        {
+            "name": "Metal Gear Solid - The Twin Snakes (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Metal Gear Solid - The Twin Snakes (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metal%20Gear%20Solid%20-%20The%20Twin%20Snakes%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Metroid Prime (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metroid%20Prime%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Metroid Prime (v1.02)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metroid%20Prime%20%28v1.02%29.iso"
+        },
+        {
+            "name": "Metroid Prime 2 - Echoes",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Metroid%20Prime%202%20-%20Echoes.iso"
+        },
+        {
+            "name": "Midway Arcade Treasures 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Midway%20Arcade%20Treasures%202.iso"
+        },
+        {
+            "name": "Midway Arcade Treasures 3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Midway%20Arcade%20Treasures%203.iso"
+        },
+        {
+            "name": "Midway Arcade Treasures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Midway%20Arcade%20Treasures.iso"
+        },
+        {
+            "name": "Minority Report - Everybody Runs",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Minority%20Report%20-%20Everybody%20Runs.iso"
+        },
+        {
+            "name": "Mission - Impossible - Operation Surma",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mission%20-%20Impossible%20-%20Operation%20Surma.iso"
+        },
+        {
+            "name": "Monopoly Party",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Monopoly%20Party.iso"
+        },
+        {
+            "name": "Monster 4x4 - Masters of Metal",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Monster%204x4%20-%20Masters%20of%20Metal.iso"
+        },
+        {
+            "name": "Monster House",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Monster%20House.iso"
+        },
+        {
+            "name": "Monster Jam - Maximum Destruction",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Monster%20Jam%20-%20Maximum%20Destruction.iso"
+        },
+        {
+            "name": "Mortal Kombat - Deadly Alliance",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mortal%20Kombat%20-%20Deadly%20Alliance.iso"
+        },
+        {
+            "name": "Mortal Kombat - Deception",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mortal%20Kombat%20-%20Deception.iso"
+        },
+        {
+            "name": "Muppets - Party Cruise",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Muppets%20-%20Party%20Cruise.iso"
+        },
+        {
+            "name": "Mystic Heroes",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Mystic%20Heroes.iso"
+        },
+        {
+            "name": "NASCAR - Dirt to Daytona",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NASCAR%20-%20Dirt%20to%20Daytona.iso"
+        },
+        {
+            "name": "NASCAR 2005 - Chase for the Cup",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NASCAR%202005%20-%20Chase%20for%20the%20Cup.iso"
+        },
+        {
+            "name": "NASCAR Thunder 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NASCAR%20Thunder%202003.iso"
+        },
+        {
+            "name": "NBA 2K2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%202K2.iso"
+        },
+        {
+            "name": "NBA 2K3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%202K3.iso"
+        },
+        {
+            "name": "NBA Courtside 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Courtside%202002.iso"
+        },
+        {
+            "name": "NBA Live 06",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Live%2006.iso"
+        },
+        {
+            "name": "NBA Live 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Live%202003.iso"
+        },
+        {
+            "name": "NBA Live 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Live%202004.iso"
+        },
+        {
+            "name": "NBA Live 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Live%202005.iso"
+        },
+        {
+            "name": "NBA Street V3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Street%20V3.iso"
+        },
+        {
+            "name": "NBA Street Vol. 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Street%20Vol.%202.iso"
+        },
+        {
+            "name": "NBA Street",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NBA%20Street.iso"
+        },
+        {
+            "name": "NCAA College Basketball 2K3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NCAA%20College%20Basketball%202K3.iso"
+        },
+        {
+            "name": "NCAA College Football 2K3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NCAA%20College%20Football%202K3.iso"
+        },
+        {
+            "name": "NCAA Football 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NCAA%20Football%202003.iso"
+        },
+        {
+            "name": "NCAA Football 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NCAA%20Football%202004.iso"
+        },
+        {
+            "name": "NCAA Football 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NCAA%20Football%202005.iso"
+        },
+        {
+            "name": "NFL 2K3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%202K3.iso"
+        },
+        {
+            "name": "NFL Blitz 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20Blitz%202002.iso"
+        },
+        {
+            "name": "NFL Blitz 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20Blitz%202003.iso"
+        },
+        {
+            "name": "NFL Blitz Pro",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20Blitz%20Pro.iso"
+        },
+        {
+            "name": "NFL QB Club 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20QB%20Club%202002.iso"
+        },
+        {
+            "name": "NFL Street 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20Street%202.iso"
+        },
+        {
+            "name": "NFL Street",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NFL%20Street.iso"
+        },
+        {
+            "name": "NHL 06",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%2006.iso"
+        },
+        {
+            "name": "NHL 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%202003.iso"
+        },
+        {
+            "name": "NHL 2004",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%202004.iso"
+        },
+        {
+            "name": "NHL 2005",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%202005.iso"
+        },
+        {
+            "name": "NHL 2K3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%202K3.iso"
+        },
+        {
+            "name": "NHL Hitz 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%20Hitz%202002.iso"
+        },
+        {
+            "name": "NHL Hitz 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%20Hitz%202003.iso"
+        },
+        {
+            "name": "NHL Hitz Pro",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/NHL%20Hitz%20Pro.iso"
+        },
+        {
+            "name": "Namco Museum 50th Anniversary",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Namco%20Museum%2050th%20Anniversary.iso"
+        },
+        {
+            "name": "Namco Museum",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Namco%20Museum.iso"
+        },
+        {
+            "name": "Naruto - Clash of Ninja 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Naruto%20-%20Clash%20of%20Ninja%202.iso"
+        },
+        {
+            "name": "Naruto - Clash of Ninja",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Naruto%20-%20Clash%20of%20Ninja.iso"
+        },
+        {
+            "name": "Need for Speed - Carbon",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Need%20for%20Speed%20-%20Carbon.iso"
+        },
+        {
+            "name": "Need for Speed - Hot Pursuit 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Need%20for%20Speed%20-%20Hot%20Pursuit%202.iso"
+        },
+        {
+            "name": "Need for Speed - Most Wanted",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Need%20for%20Speed%20-%20Most%20Wanted.iso"
+        },
+        {
+            "name": "Need for Speed - Underground (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Need%20for%20Speed%20-%20Underground%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Need for Speed - Underground 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Need%20for%20Speed%20-%20Underground%202.iso"
+        },
+        {
+            "name": "Nickelodeon Barnyard",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Barnyard.iso"
+        },
+        {
+            "name": "Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Jimmy%20Neutron%20-%20Boy%20Genius%20-%20Attack%20of%20the%20Twonkies.iso"
+        },
+        {
+            "name": "Nickelodeon Jimmy Neutron - Boy Genius",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Jimmy%20Neutron%20-%20Boy%20Genius.iso"
+        },
+        {
+            "name": "Nickelodeon Party Blast",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Party%20Blast.iso"
+        },
+        {
+            "name": "Nickelodeon Rocket Power - Beach Bandits",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Rocket%20Power%20-%20Beach%20Bandits.iso"
+        },
+        {
+            "name": "Nickelodeon Rugrats - Royal Ransom",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Rugrats%20-%20Royal%20Ransom.iso"
+        },
+        {
+            "name": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20SpongeBob%20SquarePants%20-%20Creature%20from%20the%20Krusty%20Krab.iso"
+        },
+        {
+            "name": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20SpongeBob%20SquarePants%20-%20Lights%2C%20Camera%2C%20Pants%21.iso"
+        },
+        {
+            "name": "Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20SpongeBob%20SquarePants%20-%20Revenge%20of%20the%20Flying%20Dutchman.iso"
+        },
+        {
+            "name": "Nickelodeon SpongeBob SquarePants - The Movie",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20SpongeBob%20SquarePants%20-%20The%20Movie.iso"
+        },
+        {
+            "name": "Nickelodeon SpongeBob SquarePants in - Battle for Bikini Bottom",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20SpongeBob%20SquarePants%20in%20-%20Battle%20for%20Bikini%20Bottom.iso"
+        },
+        {
+            "name": "Nickelodeon Tak - The Great Juju Challenge",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Tak%20-%20The%20Great%20Juju%20Challenge.iso"
+        },
+        {
+            "name": "Nickelodeon Tak 2 - The Staff of Dreams",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20Tak%202%20-%20The%20Staff%20of%20Dreams.iso"
+        },
+        {
+            "name": "Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nickelodeon%20The%20Adventures%20of%20Jimmy%20Neutron%20-%20Boy%20Genius%20-%20Jet%20Fusion.iso"
+        },
+        {
+            "name": "Nicktoons - Battle for Volcano Island",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nicktoons%20-%20Battle%20for%20Volcano%20Island.iso"
+        },
+        {
+            "name": "Nicktoons Unite!",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Nicktoons%20Unite%21.iso"
+        },
+        {
+            "name": "Odama",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Odama.iso"
+        },
+        {
+            "name": "Open Season",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Open%20Season.iso"
+        },
+        {
+            "name": "Outlaw Golf",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Outlaw%20Golf.iso"
+        },
+        {
+            "name": "P.N. 03",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/P.N.%2003.iso"
+        },
+        {
+            "name": "Pac-Man Fever",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pac-Man%20Fever.iso"
+        },
+        {
+            "name": "Pac-Man Vs. (Promo)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pac-Man%20Vs.%20%28Promo%29.iso"
+        },
+        {
+            "name": "Pac-Man World 2 (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pac-Man%20World%202%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Pac-Man World 3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pac-Man%20World%203.iso"
+        },
+        {
+            "name": "Pac-Man World Rally",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pac-Man%20World%20Rally.iso"
+        },
+        {
+            "name": "Paper Mario - The Thousand-Year Door",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Paper%20Mario%20-%20The%20Thousand-Year%20Door.iso"
+        },
+        {
+            "name": "Peter Jackson's King Kong - The Official Game of the Movie",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Peter%20Jackson%27s%20King%20Kong%20-%20The%20Official%20Game%20of%20the%20Movie.iso"
+        },
+        {
+            "name": "Phantasy Star Online Episode I & II (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Phantasy Star Online Episode I & II (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Phantasy Star Online Episode I & II Plus",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20Plus.iso"
+        },
+        {
+            "name": "Phantasy Star Online Episode III - C.A.R.D. Revolution",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Phantasy%20Star%20Online%20Episode%20III%20-%20C.A.R.D.%20Revolution.iso"
+        },
+        {
+            "name": "Pikmin (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pikmin%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Pikmin 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pikmin%202.iso"
+        },
+        {
+            "name": "Pikmin",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pikmin.iso"
+        },
+        {
+            "name": "Pinball Hall of Fame - The Gottlieb Collection",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pinball%20Hall%20of%20Fame%20-%20The%20Gottlieb%20Collection.iso"
+        },
+        {
+            "name": "Pitfall - The Lost Expedition",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pitfall%20-%20The%20Lost%20Expedition.iso"
+        },
+        {
+            "name": "Pokemon Box - Ruby & Sapphire",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pokemon%20Box%20-%20Ruby%20%26%20Sapphire.iso"
+        },
+        {
+            "name": "Pokemon Channel",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pokemon%20Channel.iso"
+        },
+        {
+            "name": "Pokemon Colosseum",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pokemon%20Colosseum.iso"
+        },
+        {
+            "name": "Pokemon XD - Gale of Darkness",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pokemon%20XD%20-%20Gale%20of%20Darkness.iso"
+        },
+        {
+            "name": "Polar Express, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Polar%20Express%2C%20The.iso"
+        },
+        {
+            "name": "Pool Paradise",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pool%20Paradise.iso"
+        },
+        {
+            "name": "Power Rangers - Dino Thunder",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Power%20Rangers%20-%20Dino%20Thunder.iso"
+        },
+        {
+            "name": "Powerpuff Girls, The - Relish Rampage - Pickled Edition",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Powerpuff%20Girls%2C%20The%20-%20Relish%20Rampage%20-%20Pickled%20Edition.iso"
+        },
+        {
+            "name": "Prince of Persia - The Sands of Time (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Prince of Persia - The Sands of Time (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Prince of Persia - The Two Thrones",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Prince%20of%20Persia%20-%20The%20Two%20Thrones.iso"
+        },
+        {
+            "name": "Prince of Persia - Warrior Within",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Prince%20of%20Persia%20-%20Warrior%20Within.iso"
+        },
+        {
+            "name": "Pro Rally 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Pro%20Rally%202002.iso"
+        },
+        {
+            "name": "Puyo Pop Fever",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Puyo%20Pop%20Fever.iso"
+        },
+        {
+            "name": "R-Racing Evolution",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/R-Racing%20Evolution.iso"
+        },
+        {
+            "name": "Rally Championship",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rally%20Championship.iso"
+        },
+        {
+            "name": "Rampage - Total Destruction",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rampage%20-%20Total%20Destruction.iso"
+        },
+        {
+            "name": "Rave Master",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rave%20Master.iso"
+        },
+        {
+            "name": "Rayman 3 - Hoodlum Havoc",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rayman%203%20-%20Hoodlum%20Havoc.iso"
+        },
+        {
+            "name": "Rayman Arena",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rayman%20Arena.iso"
+        },
+        {
+            "name": "Red Faction II",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Red%20Faction%20II.iso"
+        },
+        {
+            "name": "RedCard 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/RedCard%202003.iso"
+        },
+        {
+            "name": "Reign of Fire",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Reign%20of%20Fire.iso"
+        },
+        {
+            "name": "Resident Evil (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Resident Evil (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Resident Evil - Code - Veronica X (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20-%20Code%20-%20Veronica%20X%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Resident Evil - Code - Veronica X (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20-%20Code%20-%20Veronica%20X%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Resident Evil 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%202.iso"
+        },
+        {
+            "name": "Resident Evil 3 - Nemesis",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%203%20-%20Nemesis.iso"
+        },
+        {
+            "name": "Resident Evil 4 (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%204%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Resident Evil 4 (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%204%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Resident Evil Zero (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20Zero%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Resident Evil Zero (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Resident%20Evil%20Zero%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Ribbit King Plus! (Bonus Disc)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ribbit%20King%20Plus%21%20%28Bonus%20Disc%29.iso"
+        },
+        {
+            "name": "Ribbit King",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ribbit%20King.iso"
+        },
+        {
+            "name": "Road Trip - The Arcade Edition",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Road%20Trip%20-%20The%20Arcade%20Edition.iso"
+        },
+        {
+            "name": "RoadKill",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/RoadKill.iso"
+        },
+        {
+            "name": "Robotech - Battlecry",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Robotech%20-%20Battlecry.iso"
+        },
+        {
+            "name": "Robots",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Robots.iso"
+        },
+        {
+            "name": "Rocky",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rocky.iso"
+        },
+        {
+            "name": "Rogue Ops",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Rogue%20Ops.iso"
+        },
+        {
+            "name": "SRS - Street Racing Syndicate",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SRS%20-%20Street%20Racing%20Syndicate.iso"
+        },
+        {
+            "name": "SSX 3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SSX%203.iso"
+        },
+        {
+            "name": "SSX On Tour",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SSX%20On%20Tour.iso"
+        },
+        {
+            "name": "SSX Tricky",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SSX%20Tricky.iso"
+        },
+        {
+            "name": "SX Superstar",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SX%20Superstar.iso"
+        },
+        {
+            "name": "Samurai Jack - The Shadow of Aku",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Samurai%20Jack%20-%20The%20Shadow%20of%20Aku.iso"
+        },
+        {
+            "name": "Scaler",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scaler.iso"
+        },
+        {
+            "name": "Scooby-Doo! Mystery Mayhem",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scooby-Doo%21%20Mystery%20Mayhem.iso"
+        },
+        {
+            "name": "Scooby-Doo! Night of 100 Frights (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scooby-Doo%21%20Night%20of%20100%20Frights%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Scooby-Doo! Night of 100 Frights (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scooby-Doo%21%20Night%20of%20100%20Frights%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Scooby-Doo! Unmasked",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scooby-Doo%21%20Unmasked.iso"
+        },
+        {
+            "name": "Scorpion King, The - Rise of the Akkadian",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Scorpion%20King%2C%20The%20-%20Rise%20of%20the%20Akkadian.iso"
+        },
+        {
+            "name": "SeaWorld Adventure Parks - Shamu's Deep Sea Adventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SeaWorld%20Adventure%20Parks%20-%20Shamu%27s%20Deep%20Sea%20Adventures.iso"
+        },
+        {
+            "name": "Second Sight",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Second%20Sight.iso"
+        },
+        {
+            "name": "Sega Soccer Slam",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sega%20Soccer%20Slam.iso"
+        },
+        {
+            "name": "Serious Sam - Next Encounter",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Serious%20Sam%20-%20Next%20Encounter.iso"
+        },
+        {
+            "name": "Shadow The Hedgehog",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shadow%20The%20Hedgehog.iso"
+        },
+        {
+            "name": "Shonen Jump's One Piece - Grand Adventure",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shonen%20Jump%27s%20One%20Piece%20-%20Grand%20Adventure.iso"
+        },
+        {
+            "name": "Shonen Jump's One Piece - Grand Battle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shonen%20Jump%27s%20One%20Piece%20-%20Grand%20Battle.iso"
+        },
+        {
+            "name": "Shonen Jump's One Piece - Pirates' Carnival",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shonen%20Jump%27s%20One%20Piece%20-%20Pirates%27%20Carnival.iso"
+        },
+        {
+            "name": "Shrek 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shrek%202.iso"
+        },
+        {
+            "name": "Shrek Extra Large",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shrek%20Extra%20Large.iso"
+        },
+        {
+            "name": "Shrek Super Party",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Shrek%20Super%20Party.iso"
+        },
+        {
+            "name": "Simpsons, The - Hit & Run",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Simpsons%2C%20The%20-%20Hit%20%26%20Run.iso"
+        },
+        {
+            "name": "Simpsons, The - Road Rage",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Simpsons%2C%20The%20-%20Road%20Rage.iso"
+        },
+        {
+            "name": "Sims 2, The - Pets",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sims%202%2C%20The%20-%20Pets.iso"
+        },
+        {
+            "name": "Sims 2, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sims%202%2C%20The.iso"
+        },
+        {
+            "name": "Sims, The (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sims%2C%20The%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Sims, The - Bustin' Out",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sims%2C%20The%20-%20Bustin%27%20Out.iso"
+        },
+        {
+            "name": "Skies of Arcadia Legends",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Skies%20of%20Arcadia%20Legends.iso"
+        },
+        {
+            "name": "Smashing Drive",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Smashing%20Drive.iso"
+        },
+        {
+            "name": "Smuggler's Run - Warzones",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Smuggler%27s%20Run%20-%20Warzones.iso"
+        },
+        {
+            "name": "Sonic Adventure 2 - Battle",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Adventure%202%20-%20Battle.iso"
+        },
+        {
+            "name": "Sonic Adventure DX - Director's Cut",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Adventure%20DX%20-%20Director%27s%20Cut.iso"
+        },
+        {
+            "name": "Sonic Gems Collection",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Gems%20Collection.iso"
+        },
+        {
+            "name": "Sonic Heroes",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Heroes.iso"
+        },
+        {
+            "name": "Sonic Mega Collection",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Mega%20Collection.iso"
+        },
+        {
+            "name": "Sonic Riders",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sonic%20Riders.iso"
+        },
+        {
+            "name": "Soulcalibur II",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Soulcalibur%20II.iso"
+        },
+        {
+            "name": "Space Raiders",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Space%20Raiders.iso"
+        },
+        {
+            "name": "Spartan - Total Warrior",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spartan%20-%20Total%20Warrior.iso"
+        },
+        {
+            "name": "Spawn - Armageddon",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spawn%20-%20Armageddon.iso"
+        },
+        {
+            "name": "Speed Kings",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Speed%20Kings.iso"
+        },
+        {
+            "name": "Sphinx and the Cursed Mummy",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sphinx%20and%20the%20Cursed%20Mummy.iso"
+        },
+        {
+            "name": "Spider-Man 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spider-Man%202.iso"
+        },
+        {
+            "name": "Spider-Man",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spider-Man.iso"
+        },
+        {
+            "name": "Spirits & Spells",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spirits%20%26%20Spells.iso"
+        },
+        {
+            "name": "SpyHunter",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/SpyHunter.iso"
+        },
+        {
+            "name": "Spyro - A Hero's Tail",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spyro%20-%20A%20Hero%27s%20Tail.iso"
+        },
+        {
+            "name": "Spyro - Enter the Dragonfly",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Spyro%20-%20Enter%20the%20Dragonfly.iso"
+        },
+        {
+            "name": "Star Fox - Assault",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Fox%20-%20Assault.iso"
+        },
+        {
+            "name": "Star Fox Adventures (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Fox%20Adventures%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Star Fox Adventures",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Fox%20Adventures.iso"
+        },
+        {
+            "name": "Star Wars - Bounty Hunter",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Wars%20-%20Bounty%20Hunter.iso"
+        },
+        {
+            "name": "Star Wars - Jedi Knight II - Jedi Outcast",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Wars%20-%20Jedi%20Knight%20II%20-%20Jedi%20Outcast.iso"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron II - Rogue Leader",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Wars%20-%20Rogue%20Squadron%20II%20-%20Rogue%20Leader.iso"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron III - Rebel Strike",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Wars%20-%20Rogue%20Squadron%20III%20-%20Rebel%20Strike.iso"
+        },
+        {
+            "name": "Star Wars - The Clone Wars",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Star%20Wars%20-%20The%20Clone%20Wars.iso"
+        },
+        {
+            "name": "Starsky & Hutch",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Starsky%20%26%20Hutch.iso"
+        },
+        {
+            "name": "Street Hoops",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Street%20Hoops.iso"
+        },
+        {
+            "name": "Strike Force Bowling",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Strike%20Force%20Bowling.iso"
+        },
+        {
+            "name": "Sum of All Fears, The",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Sum%20of%20All%20Fears%2C%20The.iso"
+        },
+        {
+            "name": "Summoner - A Goddess Reborn",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Summoner%20-%20A%20Goddess%20Reborn.iso"
+        },
+        {
+            "name": "Super Bubble Pop",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Bubble%20Pop.iso"
+        },
+        {
+            "name": "Super Mario Strikers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Mario%20Strikers.iso"
+        },
+        {
+            "name": "Super Mario Sunshine",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Mario%20Sunshine.iso"
+        },
+        {
+            "name": "Super Monkey Ball 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Monkey%20Ball%202.iso"
+        },
+        {
+            "name": "Super Monkey Ball Adventure",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Monkey%20Ball%20Adventure.iso"
+        },
+        {
+            "name": "Super Monkey Ball",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Monkey%20Ball.iso"
+        },
+        {
+            "name": "Super Smash Bros. Melee (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Smash%20Bros.%20Melee%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Super Smash Bros. Melee (v1.00)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Smash%20Bros.%20Melee%20%28v1.00%29.iso"
+        },
+        {
+            "name": "Super Smash Bros. Melee (v1.01)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Super%20Smash%20Bros.%20Melee%20%28v1.01%29.iso"
+        },
+        {
+            "name": "Superman - Shadow of Apokolips",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Superman%20-%20Shadow%20of%20Apokolips.iso"
+        },
+        {
+            "name": "Surf's Up",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Surf%27s%20Up.iso"
+        },
+        {
+            "name": "Swingerz Golf",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Swingerz%20Golf.iso"
+        },
+        {
+            "name": "TMNT - Mutant Melee",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TMNT%20-%20Mutant%20Melee.iso"
+        },
+        {
+            "name": "TMNT",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TMNT.iso"
+        },
+        {
+            "name": "TY the Tasmanian Tiger - Night of the Quinkan",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TY%20the%20Tasmanian%20Tiger%20-%20Night%20of%20the%20Quinkan.iso"
+        },
+        {
+            "name": "TY the Tasmanian Tiger 2 - Bush Rescue",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TY%20the%20Tasmanian%20Tiger%202%20-%20Bush%20Rescue.iso"
+        },
+        {
+            "name": "TY the Tasmanian Tiger",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TY%20the%20Tasmanian%20Tiger.iso"
+        },
+        {
+            "name": "Tak and the Power of Juju",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tak%20and%20the%20Power%20of%20Juju.iso"
+        },
+        {
+            "name": "Tales of Symphonia (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tales%20of%20Symphonia%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Tales of Symphonia (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tales%20of%20Symphonia%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Taz - Wanted",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Taz%20-%20Wanted.iso"
+        },
+        {
+            "name": "Teen Titans",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teen%20Titans.iso"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Teenage%20Mutant%20Ninja%20Turtles.iso"
+        },
+        {
+            "name": "Terminator 3 - The Redemption",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Terminator%203%20-%20The%20Redemption.iso"
+        },
+        {
+            "name": "Tetris Worlds",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tetris%20Worlds.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 06",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%2006.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 2003",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%202003.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 2004 (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%202004%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 2004 (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%202004%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 2005 (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%202005%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Tiger Woods PGA Tour 2005 (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tiger%20Woods%20PGA%20Tour%202005%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "TimeSplitters - Future Perfect",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TimeSplitters%20-%20Future%20Perfect.iso"
+        },
+        {
+            "name": "TimeSplitters 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TimeSplitters%202.iso"
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Ghost%20Recon%202.iso"
+        },
+        {
+            "name": "Tom Clancy's Ghost Recon",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Ghost%20Recon.iso"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six - Lockdown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Rainbow%20Six%20-%20Lockdown.iso"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six 3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Rainbow%20Six%203.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell - Chaos Theory (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell - Chaos Theory (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell - Double Agent (Disc 1)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Double%20Agent%20%28Disc%201%29.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell - Double Agent (Disc 2)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Double%20Agent%20%28Disc%202%29.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell - Pandora Tomorrow",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Pandora%20Tomorrow.iso"
+        },
+        {
+            "name": "Tom Clancy's Splinter Cell",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20Clancy%27s%20Splinter%20Cell.iso"
+        },
+        {
+            "name": "Tom and Jerry in War of the Whiskers",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tom%20and%20Jerry%20in%20War%20of%20the%20Whiskers.iso"
+        },
+        {
+            "name": "Tonka - Rescue Patrol",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tonka%20-%20Rescue%20Patrol.iso"
+        },
+        {
+            "name": "Tony Hawk's American Wasteland",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tony%20Hawk%27s%20American%20Wasteland.iso"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater 3",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tony%20Hawk%27s%20Pro%20Skater%203.iso"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater 4",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tony%20Hawk%27s%20Pro%20Skater%204.iso"
+        },
+        {
+            "name": "Tony Hawk's Underground 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tony%20Hawk%27s%20Underground%202.iso"
+        },
+        {
+            "name": "Tony Hawk's Underground",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tony%20Hawk%27s%20Underground.iso"
+        },
+        {
+            "name": "Top Angler - Real Bass Fishing",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Top%20Angler%20-%20Real%20Bass%20Fishing.iso"
+        },
+        {
+            "name": "Top Gun - Combat Zones",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Top%20Gun%20-%20Combat%20Zones.iso"
+        },
+        {
+            "name": "TransWorld Surf - Next Wave",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/TransWorld%20Surf%20-%20Next%20Wave.iso"
+        },
+        {
+            "name": "Trigger Man",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Trigger%20Man.iso"
+        },
+        {
+            "name": "True Crime - New York City",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/True%20Crime%20-%20New%20York%20City.iso"
+        },
+        {
+            "name": "True Crime - Streets of LA (Player's Choice)",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/True%20Crime%20-%20Streets%20of%20LA%20%28Player%27s%20Choice%29.iso"
+        },
+        {
+            "name": "Tube Slider - The Championship of Future Formula",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Tube%20Slider%20-%20The%20Championship%20of%20Future%20Formula.iso"
+        },
+        {
+            "name": "Turok - Evolution",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Turok%20-%20Evolution.iso"
+        },
+        {
+            "name": "UFC - Throwdown",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/UFC%20-%20Throwdown.iso"
+        },
+        {
+            "name": "Ultimate Muscle - Legends vs. New Generation",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ultimate%20Muscle%20-%20Legends%20vs.%20New%20Generation.iso"
+        },
+        {
+            "name": "Ultimate Spider-Man",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Ultimate%20Spider-Man.iso"
+        },
+        {
+            "name": "Universal Studios Theme Park Adventure",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Universal%20Studios%20Theme%20Park%20Adventure.iso"
+        },
+        {
+            "name": "Urbz, The - Sims in the City",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Urbz%2C%20The%20-%20Sims%20in%20the%20City.iso"
+        },
+        {
+            "name": "Vexx",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Vexx.iso"
+        },
+        {
+            "name": "Viewtiful Joe - Red Hot Rumble",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Viewtiful%20Joe%20-%20Red%20Hot%20Rumble.iso"
+        },
+        {
+            "name": "Viewtiful Joe 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Viewtiful%20Joe%202.iso"
+        },
+        {
+            "name": "Viewtiful Joe",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Viewtiful%20Joe.iso"
+        },
+        {
+            "name": "Virtua Quest",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Virtua%20Quest.iso"
+        },
+        {
+            "name": "Virtua Striker 2002",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Virtua%20Striker%202002.iso"
+        },
+        {
+            "name": "WTA Tour Tennis",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WTA%20Tour%20Tennis.iso"
+        },
+        {
+            "name": "WWE Crush Hour",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WWE%20Crush%20Hour.iso"
+        },
+        {
+            "name": "WWE Day of Reckoning 2",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WWE%20Day%20of%20Reckoning%202.iso"
+        },
+        {
+            "name": "WWE Day of Reckoning",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WWE%20Day%20of%20Reckoning.iso"
+        },
+        {
+            "name": "WWE WrestleMania X8",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WWE%20WrestleMania%20X8.iso"
+        },
+        {
+            "name": "WWE WrestleMania XIX",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WWE%20WrestleMania%20XIX.iso"
+        },
+        {
+            "name": "Wallace & Gromit in Project Zoo",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Wallace%20%26%20Gromit%20in%20Project%20Zoo.iso"
+        },
+        {
+            "name": "Walt Disney Pictures Presents Meet the Robinsons",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Walt%20Disney%20Pictures%20Presents%20Meet%20the%20Robinsons.iso"
+        },
+        {
+            "name": "Wario World",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Wario%20World.iso"
+        },
+        {
+            "name": "WarioWare, Inc. - Mega Party Game$!",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/WarioWare%2C%20Inc.%20-%20Mega%20Party%20Game%24%21.iso"
+        },
+        {
+            "name": "Wave Race - Blue Storm",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Wave%20Race%20-%20Blue%20Storm.iso"
+        },
+        {
+            "name": "Whirl Tour",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Whirl%20Tour.iso"
+        },
+        {
+            "name": "World Series of Poker",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/World%20Series%20of%20Poker.iso"
+        },
+        {
+            "name": "Worms 3D",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Worms%203D.iso"
+        },
+        {
+            "name": "Worms Blast",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Worms%20Blast.iso"
+        },
+        {
+            "name": "Wreckless - The Yakuza Missions",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Wreckless%20-%20The%20Yakuza%20Missions.iso"
+        },
+        {
+            "name": "X-Men - Next Dimension",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/X-Men%20-%20Next%20Dimension.iso"
+        },
+        {
+            "name": "X-Men - The Official Game",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/X-Men%20-%20The%20Official%20Game.iso"
+        },
+        {
+            "name": "X-Men Legends II - Rise of Apocalypse",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/X-Men%20Legends%20II%20-%20Rise%20of%20Apocalypse.iso"
+        },
+        {
+            "name": "X-Men Legends",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/X-Men%20Legends.iso"
+        },
+        {
+            "name": "X2 - Wolverine's Revenge",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/X2%20-%20Wolverine%27s%20Revenge.iso"
+        },
+        {
+            "name": "XGIII",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/XGIII.iso"
+        },
+        {
+            "name": "XGRA - Extreme G Racing Association",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/XGRA%20-%20Extreme%20G%20Racing%20Association.iso"
+        },
+        {
+            "name": "XIII",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/XIII.iso"
+        },
+        {
+            "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Yu-Gi-Oh%21%20The%20Falsebound%20Kingdom.iso"
+        },
+        {
+            "name": "Zapper",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Zapper.iso"
+        },
+        {
+            "name": "Zatch Bell! Mamodo Battles",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Zatch%20Bell%21%20Mamodo%20Battles.iso"
+        },
+        {
+            "name": "Zatch Bell! Mamodo Fury",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Zatch%20Bell%21%20Mamodo%20Fury.iso"
+        },
+        {
+            "name": "Zoids - Battle Legends",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/Zoids%20-%20Battle%20Legends.iso"
+        },
+        {
+            "name": "ZooCube",
+            "downloadUrl": "https://archive.org/download/GamecubeCollectionByGhostware/ZooCube.iso"
+        }
+    ]
+}
